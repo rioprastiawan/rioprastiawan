@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**rioprastiawan/rioprastiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'> Hello there! My name is Dandy. 😎 </p>
+<p align='center'>
+   <a href="https://twitter.com/xtrvts"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/xtrvts"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/dndyrka"><img height="30" src="https://github.com/dandyraka/dandyraka/blob/master/images/facebook.png?raw=true"></a>
+   <br/><br/>
+   <a href="https://github.com/dandyraka/">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandyraka&layout=compact" alt="dandyraka's github stats"/>
+   </a>
+   <a href="https://github.com/dandyraka/">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dandyraka&hide=issues&count_private=true&show_icons=true" alt="dandyraka's github stats" />
+   </a>
+</p>
