@@ -1,5 +1,5 @@
 <h1 align='center'> Hi! :wave:</h1>
-<p align='center'> Hello there! My name is Dandy. 😎 </p>
+<p align='center'> Hello there! My name is Rio. 😎 </p>
 <p align='center'>
    <a href="https://twitter.com/_rioprastiawan"><img height="30" src="https://github.com/rioprastiawan/rioprastiawan/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/rioprastiawan"><img height="30" src="https://github.com/rioprastiawan/rioprastiawan/blob/master/images/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
