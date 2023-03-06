@@ -21,5 +21,7 @@
   <a href="https://github.com/rioprastiawan/">
    <img align="center" width="710px" src="https://github-readme-streak-stats.herokuapp.com/?user=rioprastiawan&theme=default&fire=8B64FF&ring=8B64FF&currStreakLabel=8B64FF&sideNums=8B64FF&currStreakNum=d62976" alt="rioprastiawan's streak stats"/>
    </a><br/><br/>
-   <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=rioprastiawan&column=7" alt="rioprastiawan's trophy stats"/>
+  <a href="https://github.com/rioprastiawan/">
+    <img align="center" width="710px" src="https://github-profile-trophy.vercel.app/?username=rioprastiawan&column=7" alt="rioprastiawan's trophy stats"/>
+  </a>
 </p>
