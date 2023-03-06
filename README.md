@@ -1,10 +1,14 @@
 <h1>Hola! :wave:</h1>
 <h3>
   Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+  <a href="https://github.com/rioprastiawan/">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+  </a>
 </h3>
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14AAF7&width=435&lines=Assalamualaikum;Gatau+mau+ngisi+apa+lagi">
+  <a href="https://github.com/rioprastiawan/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14AAF7&width=435&lines=Assalamualaikum;Gatau+mau+ngisi+apa+lagi">
+  </a>
 </p>
 
 <p align='center'>
